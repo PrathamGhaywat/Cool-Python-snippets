@@ -10,4 +10,5 @@ You can help out by reaching me out: Pratham.Ghaywat@outlook.com
 3. Copy or download the file!
 
 ## Warning:
-- some snippets in this file may interfere with privacy. Note that I don't promote any malicious activity Use them responsible. Any damage caused by it, I will not be liable. Check licen
+- some snippets in this file may interfere with privacy. Note that I don't promote any malicious activity Use them responsible. Any damage caused by it, I will not be liable. Check [licen](https://github.com/PrathamGhaywat/Cool-Python-snippets/blob/main/LICENSE)
+  
