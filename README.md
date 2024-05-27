@@ -1,3 +1,5 @@
+![Design 43](https://github.com/PrathamGhaywat/Cool-Python-snippets/assets/170325053/cfb3e4e2-6935-4b35-a340-f1bc35e340f6)
+
 # Cool-Python-snippets
 Collection of cool python snippets you can use.
 Upload frequency: Often
