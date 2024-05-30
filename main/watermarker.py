@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image #pip install pillow
 
 def add_watermark(image_path, watermark_path, output_path):
     # Open the original image
