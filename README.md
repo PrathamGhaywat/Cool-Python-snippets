@@ -8,7 +8,7 @@ You can help out by reaching me out: Pratham.Ghaywat@outlook.com
 
 ## What to do:
 1. Just choose a python snippet from the [main](https://github.com/PrathamGhaywat/Cool-Python-snippets/tree/main/main) folder located in the repository
-2. To understang it, just read the comments.
+2. To understand it, just read the comments.
 3. Copy or download the file!
 
 ## Warning:
